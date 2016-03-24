@@ -1,0 +1,55 @@
+*{
+	margin:0;
+	padding:0;
+}
+.header{
+	width:100%;
+	height:158px;
+	background:#282828;
+}
+.navbar{
+	width:100%;
+	height:45px;
+	background:#ffd008;
+	line-height:27px;
+}
+a{
+	color:#282828;
+	font-weight:bold;
+}
+.photo{
+	width:100%;
+	height:160px;
+	background:url("../images/road.jpg");
+	background-size:100%;
+	background-position:0 40%;
+	margin-top:-20px;
+}
+.add{
+	width:380px;
+	height:50px;
+	background:#282828;
+}
+.clearfix {
+  clear: both;
+}
+/* .user{
+	width:500px;
+	height:40px;
+	background-color:darkred;
+}
+.row div{
+	width:240px;
+	height:160px;
+	background:orangered;
+}
+.news{
+    width:300px;
+    height:800px;
+    background:blue;
+}
+.footer{
+	width:100%;
+	height:200px;
+	background:black;
+} */
